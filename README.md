@@ -1,2 +1,2 @@
-# -DAMAH-Prot-ine
+# -DAMAH-Protine
 Site officiel DAMAH Protéine
